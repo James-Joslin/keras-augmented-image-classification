@@ -10,7 +10,6 @@ saved_model/*
 !saved_model/.keep
 
 *.hdf5
-.json
 
 __pycache__/*
 
