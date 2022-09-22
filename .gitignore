@@ -1,6 +1,9 @@
 data/*
 !data/.keep 
 
+saved_models/*
+!saved_models/.keep 
+
 inference-data/*
 !inference-data/.keep
 
