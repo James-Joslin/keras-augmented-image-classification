@@ -1,0 +1,16 @@
+data/*
+!data/.keep 
+
+inference-data/*
+!inference-data/.keep
+
+.vscode/*
+
+saved_model/*
+!saved_model/.keep
+
+*.hdf5
+
+__pycache__/*
+
+*.zip
